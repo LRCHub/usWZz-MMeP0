@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "28 Reasons",
+  "base_artist": "SEULGI",
+  "createdAt": "2026-03-26T13:24:58.549091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Climbing Up The Walls - BBC Radio 1 Evening Session 28/5/97",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/01_Climbing_Up_The_Walls_-_BBC_Radio_1_Evening_Session_28_5_97_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dollars & Cents (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Dollars_&_Cents_(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everything in Its Right Place (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Everything_in_Its_Right_Place_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How to Disappear Completely (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_How_to_Disappear_Completely_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Might Be Wrong (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/05_I_Might_Be_Wrong_(Canal+_Studios,_28-04-01)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Idioteque (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/06_Idioteque_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In Limbo (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_In_Limbo_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Knives Out (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_Knives_Out_(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Morning Bell (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Morning_Bell_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Motion Picture Soundtrack (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Motion_Picture_Soundtrack_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pyramid Song (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_Pyramid_Song_(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sail To The Moon - BBC Radio 1's Jo Whiley's Live Lounge - 28/05/03",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Sail_To_The_Moon_-_BBC_Radio_1's_Jo_Whiley's_Live_Lounge_-_28_05_03_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sail To The Moon. (BBC Radio 1's Jo Whiley's Live Lounge, 28/05/03)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Sail_To_The_Moon._(BBC_Radio_1's_Jo_Whiley's_Live_Lounge,_28_05_03)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The National Anthem (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_The_National_Anthem_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You and Whose Army? (Canal+ Studios, 28-04-01)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/15_You_and_Whose_Army__(Canal+_Studios,_28-04-01)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It Doesn't Matter - Alt Mix / 28/9/96",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/16_It_Doesn't_Matter_-_Alt_Mix___28_9_96_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Section 28: Guaranteed Nightlite",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/17_Section_28__Guaranteed_Nightlite_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Olde Highway 28",
+      "artist": "Turnabout",
+      "has_synced": false,
+      "path": "select/18_Olde_Highway_28_Turnabout.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "January 28, 1986",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/19_January_28,_1986_Owl_City.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "28 Reasons",
+      "artist": "SEULGI",
+      "has_synced": false,
+      "path": "select/pl_01_28_Reasons_SEULGI.txt"
+    }
+  ]
+}
